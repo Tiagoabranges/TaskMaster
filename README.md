@@ -1,1 +1,1 @@
-# todolist
+para rodar o conteiner docker do mongo utilize docker run -p 27017: 27017 -d mongo
