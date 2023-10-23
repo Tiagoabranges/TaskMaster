@@ -86,9 +86,6 @@ Se você encontrar algum problema, por favor me avise [aqui](https://www.linkedi
 # 📝 Licença
 Desenvolvido por [Tiago Abranges](https://www.linkedin.com/in/tiagoabranges/).
 
-Autor
-Seu Nome
-
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para criar um fork do projeto e enviar pull requests
 
