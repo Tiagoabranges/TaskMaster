@@ -24,9 +24,7 @@ class TaskController {
     try {
       const tasks: ITask[] = await this.taskService.listTasks();
       res.status(statusCodes.OK).json(tasks);
-      console.log('hi');
     } catch (error) {
-      console.log('oh hi');
       res
         .status(statusCodes.INTERNAL_SERVER_ERROR)
         .json({ error: 'Error fetching tasks.' });

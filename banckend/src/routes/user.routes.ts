@@ -6,5 +6,5 @@ const router = express.Router();
 const userController = new UserController();
 
 router.post('/register', (req, res) => userController.createUser(req, res));
-
+router.get('/register', (req, res) => userController.listUsers(req, res));
 export default router;
